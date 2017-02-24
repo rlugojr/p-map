@@ -72,6 +72,7 @@ Number of concurrently pending promises returned by `mapper`.
 - [p-times](https://github.com/sindresorhus/p-times) - Run promise-returning & async functions a specific number of times concurrently
 - [p-props](https://github.com/sindresorhus/p-props) - Like `Promise.all()` but for `Map` and `Object`
 - [p-map-series](https://github.com/sindresorhus/p-map-series) - Map over promises serially
+- [p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control
 - [More…](https://github.com/sindresorhus/promise-fun)
 
 
